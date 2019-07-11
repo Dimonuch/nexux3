@@ -1,4 +1,4 @@
-# nexux3
+# nexus3
 Create and setup docker repository nexus3
 1. Create structure directories and files as described above.
 2. Need to change permission volume "chown -R 200 nexus/nexus-data"
